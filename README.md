@@ -1,4 +1,4 @@
-![xo](Photos/xo.png)
+![ox](Photos/ox.png)
 
 # Tic Tac Toe
 
