@@ -65,7 +65,7 @@ def BuClick(id):
         root.title('Tic Tac Toy : Player2')  # change title when p1 end turn
         ActivePlayer = 2  # change p1 to p2
         print('P1:{}'.format(p1))  # print info. about p1
-        AutoPlay()  # call function to play with machine
+        #AutoPlay()  # call function to play with machine
 
 
     elif (ActivePlayer == 2):
